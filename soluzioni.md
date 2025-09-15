@@ -29,3 +29,7 @@ QUERY CON SELECT:
    AND hour > '14:00:00';
 
 
+6. Selezionare tutti i corsi di laurea magistrale (38)
+   SELECT \*
+   FROM db_university.degrees
+   WHERE level = 'magistrale';
