@@ -40,3 +40,8 @@ Scarichiamo il bundle DMG per macOS dalla pagina MySQL ufficiale .
 Lanciamo anche lì l’installer e facciamo il setup
 Impostiamo una password per l’utente root (richiede almeno 8 lettere)
 Scarichiamo anche MySQL Workbench https://dev.mysql.com/downloads/workbench/
+
+===
+
+Utilizzando lo stesso database di ieri, eseguite le query in allegato.
+Caricate un secondo file nella stessa repo di ieri (db-university) con le query di oggi.
